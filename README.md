@@ -18,7 +18,7 @@ In this project, I will  implement from scratch, without any library, a web page
 * [HTML](./1-index.html) and [CSS](./1-styles.css)
 
 ### 3. third task: create the “Our results” section
-* [HTML](./-index.html) and [CSS](./2-styles.css)
+* [HTML](./2-index.html) and [CSS](./2-styles.css)
 
 ### 4. Fourth task: create the “Contact us” section
 * [HTML](./3-index.html) and [CSS](./3-styles.css)
