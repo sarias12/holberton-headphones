@@ -23,7 +23,7 @@ In this project, I will  implement from scratch, without any library, a web page
 ### 4. Fourth task: create the “Contact us” section
 * [HTML](./3-index.html) and [CSS](./3-styles.css)
 
-### [5. Latest videos](./4-homepage.html)
+### 5. Fifth task: create the footer
 * [HTML](./4-index.html) and [CSS](./4-styles.css)
 
 
