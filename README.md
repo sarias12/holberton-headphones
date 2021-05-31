@@ -12,7 +12,7 @@ In this project, I will  implement from scratch, without any library, a web page
 
 ### 1. First task: create the header/hero piece
 * [HTML](./0-index.html) and [CSS](./0-styles.css)
-* Let’s start by the Homepage: create the header/hero piece
+
 
 ### 2. Second task: create the “What we do…” section
 * [HTML](./1-index.html) and [CSS](./1-styles.css)
